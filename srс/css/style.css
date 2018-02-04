@@ -1,0 +1,59 @@
+ body {
+    width: 350px;
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+ table {
+    border-collapse: collapse;
+    /*width: 100px;*/
+  	/*height: 100px;*/
+}
+
+td {
+    padding: 10px;
+    padding-right: 10px;
+    /*color: brown;*/
+    width: 33%;
+}
+
+th {
+    padding: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    color: white;
+    background-color: darkcyan;
+}
+
+caption {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.row-1 {
+    background-color: lightblue;
+}
+
+.row-2 {
+    background-color: lightyellow;
+    border-top: 1px solid lightgray;
+		border-bottom: 1px solid lightgray;
+}
+
+.row-3 {
+    background-color: lightblue;
+}
+
+.r-1{
+	text-align: center;
+}
+
+.r-2{
+	text-align: right;
+}
+
+.r-3{
+	text-align: left;
+}
